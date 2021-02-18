@@ -1,5 +1,5 @@
 ## About Me ##
-I am currently pursuing Master in Computer Science at Columbia Univeristy. Prior to this, I have 3+ years of work experience as a Software Developer. I have a wide range of interest areas like Robotics, NLP, AI, ML and web development.
+I am currently pursuing Master in Computer Science at Columbia Univeristy. Prior to this, I have 3+ years of work experience as a Software Developer. I have a wide range of interest areas like Robotics, NLP, AI, ML, linux kernel development, web development etc.
 
 ## Robotics ##
 ### Live Demos ###
