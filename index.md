@@ -16,4 +16,4 @@ I am currently pursuing Master in Computer Science at Columbia Univeristy. Prior
 * [Combinatory Categorical Grammar (CCG) for Natural Language Understanding](https://medium.com/@swaroopshyam0/combinatory-categorical-grammar-ccg-worked-better-than-deep-learning-nlu-2f6834b85ce2)
 * [An introduction to Frame Semantics](https://medium.com/@swaroopshyam0/introduction-to-frame-semantics-e52809415c5c)
 * [Exploring Construction Grammar - CxG](https://medium.com/@swaroopshyam0/construction-grammar-cxg-3d63d48386d0)
-* [Simple query expansion](https://medium.com/@swaroopshyam0/a-simple-query-expansion-49aef3442416)
+* [Simple query expansion using WordNet](https://medium.com/@swaroopshyam0/a-simple-query-expansion-49aef3442416)
