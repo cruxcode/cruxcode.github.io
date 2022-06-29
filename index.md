@@ -1,5 +1,5 @@
 ## About Me ##
-I am currently pursuing Master in Computer Science at Columbia Univeristy. Prior to this, I have 3+ years of work experience as a Software Developer. I have a wide range of interest areas like Robotics, NLP, AI, ML, linux kernel development, web development etc.
+I am the Co-Founder and CTO of Atri Labs where we are building an open-source fullstack web framework. I dropped out of Master in Computer Science at Columbia Univeristy. Prior to this, I have 3+ years of work experience as a Software Developer. I have a wide range of interest areas like Robotics, NLP, AI, ML, linux kernel development, web development etc.
 
 ## About this page ##
 This page displays some of my work such as:
