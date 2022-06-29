@@ -1,6 +1,26 @@
 ## About Me ##
 I am currently pursuing Master in Computer Science at Columbia Univeristy. Prior to this, I have 3+ years of work experience as a Software Developer. I have a wide range of interest areas like Robotics, NLP, AI, ML, linux kernel development, web development etc.
 
+## About this page ##
+This page displays some of my work such as:
+* Products that I have built individually or in team.
+* Blogs in diverse topics such as Natural Language Processing (NLP), React, Python etc that I have written or co-authored.
+* Projects in topics like Linux Kernel, Robotics etc.
+
+## React ##
+### Blogs ###
+* [Reducing Bugs in React Codebase](https://betterprogramming.pub/how-we-reduced-bugs-in-our-react-code-base-9a7a979b4442)
+* [Walkthrough of Create React App codebase](https://medium.com/@swaroopshyam0/walkthrough-of-create-react-app-codebase-b07d94e6c4d6)
+* [Build a full-stack framework on React](https://medium.com/@swaroopshyam0/build-a-full-stack-framework-on-react-f1ddf284af80)
+
+## Python ##
+### Blogs ###
+* [How To Develop, Package and Distribute a Python Library](https://betterprogramming.pub/how-to-develop-package-and-distribute-a-python-library-2cf3a07c643e)
+
+## Typescript ##
+### Blogs ###
+* [Packaging a Typescript library](https://medium.com/@swaroopshyam0/packaging-a-typescript-library-part-1-f05c1b310067)
+
 ## Robotics ##
 ### Live Demos ###
 * [Robot navigation using Bug 1, Bug 2 and Tangent Bug algorithms](https://bugalgo.herokuapp.com/)
